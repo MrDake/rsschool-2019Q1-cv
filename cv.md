@@ -1,13 +1,17 @@
 Daulet Barakov
 ============
 
+
 -----------------------------------------------
+
 Almaty city                             
 Kazakhstan
 Date of Birth: *15.05.1991*
 email: nalulxd@gmail.com
 business number: *+7-727-254-0956*
+
 ----------------------------------------------
+
 
 Education
 ---------
