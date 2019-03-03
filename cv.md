@@ -39,3 +39,13 @@ Traffic control software developer
 Developing of statistical model of traffic regulation and debugging its algorithms
 
 
+About me
+Individual Intrepreneur, looking for new chalenges for self-realization, 
+I was intrested in software developing since school
+My goal is to become professional in front-end developing
+
+Strong sides: 
+ responsibility
+ stress tolerance
+ good communication skills
+ great learnability
