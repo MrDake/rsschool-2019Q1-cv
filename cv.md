@@ -23,4 +23,19 @@ Education
     *Faculty of Radioengineering*
 
 
+Experience
+----------
+
+*  **since 2017: Individual Intrepreneur, grocery store** 
+Supplying goods, administration, economic management
+
+
+* **2015-2016: "Mobiletelecom-service, ltd.""**
+Department of Radioacces network planning and optimization department engineer
+Maintaining accesability and performance, optimization of radio network by specilalized software
+
+* **2015-2017: "Techno-park Alatau, JSC"**
+Traffic control software developer
+Developing of statistical model of traffic regulation and debugging its algorithms
+
 
