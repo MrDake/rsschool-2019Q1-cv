@@ -184,7 +184,15 @@ section:last-child {
 	margin-bottom: 10px;
 }
 
-
+li.star:hover::after {
+	content: attr(data-title);
+	color: #cf8a05; 
+	display: inline-block;
+	position: relative;
+ 	font-size: 14px;
+	font-style: italic;	
+	left: 20%;	
+}
 
 .languageSkills img {
 	width: 40%;
