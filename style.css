@@ -215,6 +215,27 @@ li.star:hover::after {
 	}
 
 
+#back_button a {
+	text-decoration: none;
+  display: inline-block;
+  padding: 5px 10px;
+  letter-spacing: 1px;
+  margin: 0 20px;
+  font-size: 24px;
+  font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+  transition: all 1s ease-in-out;
+  -webkit-transition: all 0.7s ease-in-out;
+}
+
+#back_button a:visited {
+	color: #cf8a05;
+	
+}
+
+#back_button a:hover {
+	color: rgb(255, 0, 170);
+}
+
 @-webkit-keyframes reset {
 	0% {
 		opacity: 0;
